@@ -1,2 +1,2 @@
-# Breast Cancer Prediction Project
+# Indian Currency classification
 This directory contains code and notebooks for the breast cancer prediction project...
