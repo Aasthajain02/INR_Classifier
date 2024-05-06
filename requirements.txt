@@ -20,4 +20,5 @@ requests
 requests-oauthlib
 six
 urllib3
+gunicorn
 Werkzeug
