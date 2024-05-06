@@ -66,6 +66,8 @@ Description: 50 images of each currency 10,20,50,100,200,500,2000 are uploaded
 ## Conclusion
 
 The INR_Classifier project demonstrates an end-to-end workflow for building a web-based INR denomination classifier using Azure services. By leveraging Azure Custom Vision Service, the project provides an efficient and scalable solution for automating the classification of INR currency notes.
+![image](https://github.com/Aasthajain02/INR_Classifier/assets/103254304/cdbed225-1937-4302-870b-58f19d6c5f3c)
+
 
 
 
